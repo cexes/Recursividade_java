@@ -4,7 +4,6 @@ public class binaria {
  
         int vetor[] = {100,200,300,400,500,600,700};
         int fim = vetor.length -1;
-<<<<<<< HEAD
         int start = 0;
         int pivo = 0;
         int value = 500;
@@ -34,24 +33,5 @@ public class binaria {
 
              return Search(vetor, fim,pivo,start,value);
          }
-=======
-        int pivo;
-        System.out.println(BinSearch(vetor));
-
-    }
-
-
-    public static int BinSearch(int v[]){
-
-              
-     
-     
-     
-     
-        return 1;
-
-
-    }
->>>>>>> 363d7fd29d618ac0b2d0aa05394d77f17e2b01be
     
 }
